@@ -13,9 +13,9 @@ using System.Windows.Forms;
 
 namespace Ksu.Cis300.TextEditor
 {
-    public partial class TextEditor : Form
+    public partial class UserInterface : Form
     {
-        public TextEditor()
+        public UserInterface()
         {
             InitializeComponent();
         }
