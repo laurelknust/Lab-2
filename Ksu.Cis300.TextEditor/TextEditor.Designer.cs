@@ -1,6 +1,6 @@
 ﻿namespace Ksu.Cis300.TextEditor
 {
-    partial class UserInterface
+    partial class TextEditor
     {
         /// <summary>
         /// Required designer variable.
